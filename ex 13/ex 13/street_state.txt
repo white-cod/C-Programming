@@ -1,0 +1,7 @@
+1 1200 House
+2 800 Shop
+Supermarket 10
+3 2000 Hospital
+City Hospital 100
+4 1500 School
+High School Secondary 500 20
