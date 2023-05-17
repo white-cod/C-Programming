@@ -1,0 +1,4 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "void __cdecl Mult(double,double)" (?Mult@@YAXNN@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "void __cdecl Mult(int,int)" (?Mult@@YAXHH@Z)
+E:\C++\Проэкт\Project18\x64\Debug\Project18.exe : fatal error LNK1120: 1 unresolved externals

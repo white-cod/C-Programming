@@ -1,0 +1,18 @@
+﻿  Source.cpp
+E:\C++\Проэкт\Project7\Project7\Source.cpp(193,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\Проэкт\Project7\Project7\Source.cpp(219,13): warning C4244: '=': conversion from 'T1' to 'int', possible loss of data
+          with
+          [
+              T1=double
+          ]
+E:\C++\Проэкт\Project7\Project7\Source.cpp(45,38): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\C++\Проэкт\Project7\Project7\Source.cpp(249): message : see reference to function template instantiation 'void Gen<int>(T [],int)' being compiled
+          with
+          [
+              T=int
+          ]
+  Project7.vcxproj -> E:\C++\Проэкт\Project7\x64\Debug\Project7.exe

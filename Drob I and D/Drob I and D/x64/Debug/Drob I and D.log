@@ -1,0 +1,5 @@
+﻿  Drob.cpp
+  Prog.cpp
+  Generating Code...
+Prog.obj : error LNK2019: unresolved external symbol "public: __cdecl Drob::~Drob(void)" (??1Drob@@QEAA@XZ) referenced in function main
+F:\C++\Проэкт\Drob I and D\x64\Debug\Drob I and D.exe : fatal error LNK1120: 1 unresolved externals

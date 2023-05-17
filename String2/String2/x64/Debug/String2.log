@@ -1,0 +1,4 @@
+﻿  String.cpp
+F:\C++\Проэкт\String2\String2\String.h(14,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\String2\String2\String.h(30,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  String2.vcxproj -> F:\C++\Проэкт\String2\x64\Debug\String2.exe

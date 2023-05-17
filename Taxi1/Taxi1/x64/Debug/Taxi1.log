@@ -1,0 +1,4 @@
+﻿  Prog.cpp
+F:\C++\Проэкт\Taxi1\Taxi1\Prog.cpp(31,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\C++\Проэкт\Taxi1\Taxi1\Prog.cpp(33,44): warning C4101: 'N': unreferenced local variable
+  Taxi1.vcxproj -> F:\C++\Проэкт\Taxi1\x64\Debug\Taxi1.exe

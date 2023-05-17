@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\C++\Проэкт\test prog\test prog\Source.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  test prog.vcxproj -> E:\C++\Проэкт\test prog\x64\Debug\test prog.exe

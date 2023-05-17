@@ -1,0 +1,15 @@
+F:\C++\Проэкт\Poker\Poker\bin\Debug\net6.0\Poker.exe
+F:\C++\Проэкт\Poker\Poker\bin\Debug\net6.0\Poker.deps.json
+F:\C++\Проэкт\Poker\Poker\bin\Debug\net6.0\Poker.runtimeconfig.json
+F:\C++\Проэкт\Poker\Poker\bin\Debug\net6.0\Poker.dll
+F:\C++\Проэкт\Poker\Poker\bin\Debug\net6.0\Poker.pdb
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\Poker.csproj.AssemblyReference.cache
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\Poker.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\Poker.AssemblyInfoInputs.cache
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\Poker.AssemblyInfo.cs
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\Poker.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\Poker.dll
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\refint\Poker.dll
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\Poker.pdb
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\Poker.genruntimeconfig.cache
+F:\C++\Проэкт\Poker\Poker\obj\Debug\net6.0\ref\Poker.dll

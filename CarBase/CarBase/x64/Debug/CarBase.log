@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\C++\Проэкт\CarBase\CarBase\Source.cpp(151,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CarBase.vcxproj -> F:\C++\Проэкт\CarBase\x64\Debug\CarBase.exe

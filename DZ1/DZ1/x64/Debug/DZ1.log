@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\C++\Проэкт\DZ1\DZ1\Source.cpp(49,7): warning C4102: 'link': unreferenced label
+  DZ1.vcxproj -> F:\C++\Проэкт\DZ1\x64\Debug\DZ1.exe

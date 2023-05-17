@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\C++\Проэкт\Project22\Project22\Source.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project22.vcxproj -> F:\C++\Проэкт\Project22\x64\Debug\Project22.exe

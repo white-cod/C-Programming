@@ -1,0 +1,7 @@
+﻿  Source.cpp
+F:\C++\Проэкт\ex 12.3\ex 12.3\Source.cpp(53,87): warning C4305: 'argument': truncation from 'double' to 'T2'
+          with
+          [
+              T2=float
+          ]
+  ex 12.3.vcxproj -> F:\C++\Проэкт\ex 12.3\x64\Debug\ex 12.3.exe

@@ -1,0 +1,11 @@
+﻿  Source.cpp
+F:\C++\Проэкт\ATM\ATM\Source.cpp(42,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\ATM\ATM\Source.cpp(77,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\ATM\ATM\Source.cpp(91,22): error C2280: 'ATM &ATM::operator =(const ATM &)': attempting to reference a deleted function
+F:\C++\Проэкт\ATM\ATM\Source.cpp(73,1): message : compiler has generated 'ATM::operator =' here
+F:\C++\Проэкт\ATM\ATM\Source.cpp(73,1): message : 'ATM &ATM::operator =(const ATM &)': function was implicitly deleted because 'ATM' has a data member 'ATM::max_dispense_' of const-qualified non-class type
+F:\C++\Проэкт\ATM\ATM\Source.cpp(71,15): message : see declaration of 'ATM::max_dispense_'
+F:\C++\Проэкт\ATM\ATM\Source.cpp(152,23): error C2280: 'ATM &ATM::operator =(const ATM &)': attempting to reference a deleted function
+F:\C++\Проэкт\ATM\ATM\Source.cpp(73,1): message : compiler has generated 'ATM::operator =' here
+F:\C++\Проэкт\ATM\ATM\Source.cpp(73,1): message : 'ATM &ATM::operator =(const ATM &)': function was implicitly deleted because 'ATM' has a data member 'ATM::max_dispense_' of const-qualified non-class type
+F:\C++\Проэкт\ATM\ATM\Source.cpp(71,15): message : see declaration of 'ATM::max_dispense_'

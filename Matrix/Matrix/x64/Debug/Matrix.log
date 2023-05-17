@@ -1,0 +1,4 @@
+﻿  Matrix.cpp
+F:\C++\Проэкт\Matrix\Matrix\Matrix.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\C++\Проэкт\Matrix\Matrix\Matrix.h(244): warning C4715: 'Matrix<double>::operator*': not all control paths return a value
+  Matrix.vcxproj -> F:\C++\Проэкт\Matrix\x64\Debug\Matrix.exe

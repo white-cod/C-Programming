@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\C++\Проэкт\Ex 2\Ex 2\Source.cpp(52,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ex 2.vcxproj -> F:\C++\Проэкт\Ex 2\x64\Debug\Ex 2.exe

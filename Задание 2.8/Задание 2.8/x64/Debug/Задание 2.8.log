@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Мої документи\Тима\Файлы\Проэкт\Задание 2.8\Задание 2.8\Source.cpp(13,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Мої документи\Тима\Файлы\Проэкт\Задание 2.8\Задание 2.8\Source.cpp(14,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Задание 2.8.vcxproj -> D:\Мої документи\Тима\Файлы\Проэкт\Задание 2.8\x64\Debug\Задание 2.8.exe

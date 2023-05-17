@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\C++\Проэкт\Быки и коровы рекурсия\Быки и коровы рекурсия\Source.cpp(48,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\C++\Проэкт\Быки и коровы рекурсия\Быки и коровы рекурсия\Source.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : F:\C++\Проэкт\Быки и коровы рекурсия\x64\Debug\Быки и коровы рекурсия.exe not found or not built by the last incremental link; performing full link
+  Быки и коровы рекурсия.vcxproj -> F:\C++\Проэкт\Быки и коровы рекурсия\x64\Debug\Быки и коровы рекурсия.exe

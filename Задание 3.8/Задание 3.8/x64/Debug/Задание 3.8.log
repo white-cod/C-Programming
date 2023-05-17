@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\C++\Проэкт\Задание 3.8\Задание 3.8\Source.cpp(14,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Задание 3.8.vcxproj -> E:\C++\Проэкт\Задание 3.8\x64\Debug\Задание 3.8.exe

@@ -1,0 +1,10 @@
+﻿  BusStop.cpp
+F:\C++\Проэкт\Taxi\Taxi\BusStop.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\C++\Проэкт\Taxi\Taxi\BusStop.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\C++\Проэкт\Taxi\Taxi\BusStop.cpp(63,30): warning C4244: 'argument': conversion from 'time_t' to 'const int', possible loss of data
+F:\C++\Проэкт\Taxi\Taxi\BusStop.cpp(30,23): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\C++\Проэкт\Taxi\Taxi\BusStop.cpp(56,12): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Prog.cpp
+F:\C++\Проэкт\Taxi\Taxi\Prog.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\C++\Проэкт\Taxi\Taxi\Prog.cpp(11,13): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...

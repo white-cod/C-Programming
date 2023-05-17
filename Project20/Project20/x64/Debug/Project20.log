@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Source1.cpp
+  Generating Code...
+Source1.obj : error LNK2005: main already defined in Source.obj
+F:\C++\Проэкт\Project20\x64\Debug\Project20.exe : fatal error LNK1169: one or more multiply defined symbols found

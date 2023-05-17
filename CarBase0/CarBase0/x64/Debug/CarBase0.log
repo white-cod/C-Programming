@@ -1,0 +1,3 @@
+﻿  Prog.cpp
+F:\C++\Проэкт\CarBase0\CarBase0\Prog.cpp(128,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  CarBase0.vcxproj -> F:\C++\Проэкт\CarBase0\x64\Debug\CarBase0.exe

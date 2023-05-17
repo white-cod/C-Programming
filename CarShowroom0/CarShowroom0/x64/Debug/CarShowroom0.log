@@ -1,0 +1,13 @@
+﻿  Source.cpp
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(115,14): error C2259: 'SortBy<std::string>': cannot instantiate abstract class
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(33,27): message : see declaration of 'SortBy<std::string>'
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(115,14): message : due to following members:
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(115,14): message : 'bool SortBy<std::string>::operator ()(const Car &,const Car &) const': is abstract
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(30,18): message : see declaration of 'SortBy<std::string>::operator ()'
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(146,36): message : see reference to function template instantiation 'void CarDealership::sort_cars<std::string>(const SortBy<std::string> &)' being compiled
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(115,14): error C2259: 'SortBy<int>': cannot instantiate abstract class
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(40,27): message : see declaration of 'SortBy<int>'
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(115,14): message : due to following members:
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(115,14): message : 'bool SortBy<int>::operator ()(const Car &,const Car &) const': is abstract
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(30,18): message : see declaration of 'SortBy<int>::operator ()'
+F:\C++\Проэкт\CarShowroom0\CarShowroom0\Source.cpp(153,36): message : see reference to function template instantiation 'void CarDealership::sort_cars<int>(const SortBy<int> &)' being compiled

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\C++\Проэкт\Bus\Bus\Source.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bus.vcxproj -> F:\C++\Проэкт\Bus\x64\Debug\Bus.exe

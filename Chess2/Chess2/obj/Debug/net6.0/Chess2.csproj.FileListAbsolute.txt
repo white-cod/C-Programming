@@ -1,0 +1,15 @@
+F:\C++\Проэкт\Chess2\Chess2\bin\Debug\net6.0\Chess2.exe
+F:\C++\Проэкт\Chess2\Chess2\bin\Debug\net6.0\Chess2.deps.json
+F:\C++\Проэкт\Chess2\Chess2\bin\Debug\net6.0\Chess2.runtimeconfig.json
+F:\C++\Проэкт\Chess2\Chess2\bin\Debug\net6.0\Chess2.dll
+F:\C++\Проэкт\Chess2\Chess2\bin\Debug\net6.0\Chess2.pdb
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\Chess2.csproj.AssemblyReference.cache
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\Chess2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\Chess2.AssemblyInfoInputs.cache
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\Chess2.AssemblyInfo.cs
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\Chess2.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\Chess2.dll
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\refint\Chess2.dll
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\Chess2.pdb
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\Chess2.genruntimeconfig.cache
+F:\C++\Проэкт\Chess2\Chess2\obj\Debug\net6.0\ref\Chess2.dll

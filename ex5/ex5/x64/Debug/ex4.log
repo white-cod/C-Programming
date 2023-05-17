@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ex4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+F:\C++\Проэкт\ex4\ex4\Header.h(126): warning C4715: 'Array<int>::getAt': not all control paths return a value
+F:\C++\Проэкт\ex4\ex4\Header.h(142): warning C4715: 'Array<int>::operator[]': not all control paths return a value
+  ex4.vcxproj -> F:\C++\Проэкт\ex4\x64\Debug\ex5.exe

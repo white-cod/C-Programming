@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Мої документи\Тима\Файлы\Проэкт\Project6\Project6\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project6.vcxproj -> D:\Мої документи\Тима\Файлы\Проэкт\Project6\x64\Debug\Project6.exe

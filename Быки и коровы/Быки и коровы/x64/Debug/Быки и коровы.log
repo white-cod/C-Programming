@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\C++\Проэкт\Быки и коровы\Быки и коровы\Source.cpp(13,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Быки и коровы.vcxproj -> F:\C++\Проэкт\Быки и коровы\x64\Debug\Быки и коровы.exe

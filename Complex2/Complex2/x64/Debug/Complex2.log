@@ -1,0 +1,33 @@
+﻿  Complex.cpp
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00C2' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00E2' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00E5' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00E4' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00F9' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00F1' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00ED' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00FE' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00F7' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(64,10): warning C4566: character represented by universal-character-name '\u00FC' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00C2' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00E2' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00E5' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00E4' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00F2' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00EC' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00ED' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00F3' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00FE' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00F7' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00E0' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00F1' cannot be represented in the current code page (1251)
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(66,10): warning C4566: character represented by universal-character-name '\u00FC' cannot be represented in the current code page (1251)
+  Prog.cpp
+  Generating Code...
+F:\C++\Проэкт\Complex2\Complex2\Complex.cpp(54): warning C4715: 'Complex::operator[]': not all control paths return a value
+  Complex2.vcxproj -> F:\C++\Проэкт\Complex2\x64\Debug\Complex2.exe

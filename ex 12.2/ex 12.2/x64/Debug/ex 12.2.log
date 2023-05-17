@@ -1,0 +1,8 @@
+﻿  Source.cpp
+F:\C++\Проэкт\ex 12.2\ex 12.2\Header.h(33,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\ex 12.2\ex 12.2\Header.h(75,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\ex 12.2\ex 12.2\Header.h(105,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\ex 12.2\ex 12.2\Header.h(146,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\ex 12.2\ex 12.2\Header.h(164,39): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+F:\C++\Проэкт\ex 12.2\ex 12.2\Header.h(185,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ex 12.2.vcxproj -> F:\C++\Проэкт\ex 12.2\x64\Debug\ex 12.2.exe

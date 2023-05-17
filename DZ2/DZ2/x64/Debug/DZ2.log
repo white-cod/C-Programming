@@ -1,0 +1,43 @@
+﻿  prog.cpp
+F:\C++\Проэкт\DZ2\DZ2\function1.h(24,1): warning C4005: 'Type': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(9): message : see previous definition of 'Type'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(25,1): warning C4005: 'Fill': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(10): message : see previous definition of 'Fill'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(26,1): warning C4005: 'Print': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(11): message : see previous definition of 'Print'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(27,1): warning C4005: 'Min': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(12): message : see previous definition of 'Min'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(28,1): warning C4005: 'Max': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(13): message : see previous definition of 'Max'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(29,1): warning C4005: 'Sort': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(14): message : see previous definition of 'Sort'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(30,1): warning C4005: 'Change': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(15): message : see previous definition of 'Change'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(39,1): warning C4005: 'Type': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(24): message : see previous definition of 'Type'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(40,1): warning C4005: 'Fill': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(25): message : see previous definition of 'Fill'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(41,1): warning C4005: 'Print': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(26): message : see previous definition of 'Print'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(42,1): warning C4005: 'Min': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(27): message : see previous definition of 'Min'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(43,1): warning C4005: 'Max': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(28): message : see previous definition of 'Max'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(44,1): warning C4005: 'Sort': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(29): message : see previous definition of 'Sort'
+F:\C++\Проэкт\DZ2\DZ2\function1.h(45,1): warning C4005: 'Change': macro redefinition
+F:\C++\Проэкт\DZ2\DZ2\function1.h(30): message : see previous definition of 'Change'
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(10,2): warning C4091: '': ignored on left of 'char' when no variable is declared
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(10,7): error C2065: 'arr': undeclared identifier
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(11,2): warning C4551: function call missing argument list
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(11,7): error C2065: 'arr': undeclared identifier
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(12,2): warning C4551: function call missing argument list
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(12,8): error C2065: 'arr': undeclared identifier
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(13,2): warning C4551: function call missing argument list
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(13,6): error C2065: 'arr': undeclared identifier
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(14,2): warning C4551: function call missing argument list
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(14,6): error C2065: 'arr': undeclared identifier
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(15,2): warning C4551: function call missing argument list
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(15,7): error C2065: 'arr': undeclared identifier
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(16,2): warning C4551: function call missing argument list
+F:\C++\Проэкт\DZ2\DZ2\prog.cpp(16,9): error C2065: 'arr': undeclared identifier

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+F:\C++\Проэкт\Chat HZ\Chat HZ\Source.cpp(20,58): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Chat HZ.vcxproj -> F:\C++\Проэкт\Chat HZ\x64\Debug\Chat HZ.exe

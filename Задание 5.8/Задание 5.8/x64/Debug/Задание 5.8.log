@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\C++\Проэкт\Задание 5.8\Задание 5.8\Source.cpp(56,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : F:\C++\Проэкт\Задание 5.8\x64\Debug\Задание 5.8.exe not found or not built by the last incremental link; performing full link
+  Задание 5.8.vcxproj -> F:\C++\Проэкт\Задание 5.8\x64\Debug\Задание 5.8.exe

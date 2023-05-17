@@ -1,0 +1,8 @@
+﻿  Source.cpp
+F:\C++\Проэкт\Project4\Project4\Source.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  12 of 13 functions (92.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project4.vcxproj -> F:\C++\Проэкт\Project4\x64\Release\Project4.exe

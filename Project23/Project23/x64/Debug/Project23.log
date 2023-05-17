@@ -1,0 +1,9 @@
+﻿  Source.cpp
+  Source1.cpp
+F:\C++\Проэкт\Project23\Project23\Source1.cpp(12,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\Project23\Project23\Source1.cpp(29,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\Project23\Project23\Source1.cpp(39,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\Project23\Project23\Source1.cpp(49,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\C++\Проэкт\Project23\Project23\Source1.cpp(50,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Project23.vcxproj -> F:\C++\Проэкт\Project23\x64\Debug\Project23.exe
