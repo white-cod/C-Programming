@@ -1,0 +1,17 @@
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.csproj.AssemblyReference.cache
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.Form1.resources
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.csproj.GenerateResource.cache
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.AssemblyInfoInputs.cache
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.AssemblyInfo.cs
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\coord\coord\bin\Debug\net7.0-windows\coord.exe
+F:\C++\Проэкт\coord\coord\bin\Debug\net7.0-windows\coord.deps.json
+F:\C++\Проэкт\coord\coord\bin\Debug\net7.0-windows\coord.runtimeconfig.json
+F:\C++\Проэкт\coord\coord\bin\Debug\net7.0-windows\coord.dll
+F:\C++\Проэкт\coord\coord\bin\Debug\net7.0-windows\coord.pdb
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.dll
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\refint\coord.dll
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.pdb
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\coord.genruntimeconfig.cache
+F:\C++\Проэкт\coord\coord\obj\Debug\net7.0-windows\ref\coord.dll

@@ -1,0 +1,17 @@
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.csproj.AssemblyReference.cache
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.Form1.resources
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.csproj.GenerateResource.cache
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.AssemblyInfoInputs.cache
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.AssemblyInfo.cs
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\ResumeApp\ResumeApp\bin\Debug\net7.0-windows\ResumeApp.exe
+F:\C++\Проэкт\ResumeApp\ResumeApp\bin\Debug\net7.0-windows\ResumeApp.deps.json
+F:\C++\Проэкт\ResumeApp\ResumeApp\bin\Debug\net7.0-windows\ResumeApp.runtimeconfig.json
+F:\C++\Проэкт\ResumeApp\ResumeApp\bin\Debug\net7.0-windows\ResumeApp.dll
+F:\C++\Проэкт\ResumeApp\ResumeApp\bin\Debug\net7.0-windows\ResumeApp.pdb
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.dll
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\refint\ResumeApp.dll
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.pdb
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ResumeApp.genruntimeconfig.cache
+F:\C++\Проэкт\ResumeApp\ResumeApp\obj\Debug\net7.0-windows\ref\ResumeApp.dll
