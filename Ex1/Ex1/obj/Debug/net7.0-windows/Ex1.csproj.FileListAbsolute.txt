@@ -1,0 +1,17 @@
+F:\C++\Проэкт\Ex1\Ex1\bin\Debug\net7.0-windows\Ex1.exe
+F:\C++\Проэкт\Ex1\Ex1\bin\Debug\net7.0-windows\Ex1.deps.json
+F:\C++\Проэкт\Ex1\Ex1\bin\Debug\net7.0-windows\Ex1.runtimeconfig.json
+F:\C++\Проэкт\Ex1\Ex1\bin\Debug\net7.0-windows\Ex1.dll
+F:\C++\Проэкт\Ex1\Ex1\bin\Debug\net7.0-windows\Ex1.pdb
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.csproj.AssemblyReference.cache
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.Form1.resources
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.csproj.GenerateResource.cache
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.AssemblyInfoInputs.cache
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.AssemblyInfo.cs
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.dll
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\refint\Ex1.dll
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.pdb
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\Ex1.genruntimeconfig.cache
+F:\C++\Проэкт\Ex1\Ex1\obj\Debug\net7.0-windows\ref\Ex1.dll

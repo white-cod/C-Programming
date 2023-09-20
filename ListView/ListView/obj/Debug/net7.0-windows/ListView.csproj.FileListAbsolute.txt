@@ -1,0 +1,17 @@
+F:\C++\Проэкт\ListView\ListView\bin\Debug\net7.0-windows\ListView.exe
+F:\C++\Проэкт\ListView\ListView\bin\Debug\net7.0-windows\ListView.deps.json
+F:\C++\Проэкт\ListView\ListView\bin\Debug\net7.0-windows\ListView.runtimeconfig.json
+F:\C++\Проэкт\ListView\ListView\bin\Debug\net7.0-windows\ListView.dll
+F:\C++\Проэкт\ListView\ListView\bin\Debug\net7.0-windows\ListView.pdb
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.csproj.AssemblyReference.cache
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.Form1.resources
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.csproj.GenerateResource.cache
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.AssemblyInfoInputs.cache
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.AssemblyInfo.cs
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.dll
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\refint\ListView.dll
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.pdb
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ListView.genruntimeconfig.cache
+F:\C++\Проэкт\ListView\ListView\obj\Debug\net7.0-windows\ref\ListView.dll

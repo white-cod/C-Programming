@@ -1,0 +1,17 @@
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.csproj.AssemblyReference.cache
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.Form1.resources
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.csproj.GenerateResource.cache
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.AssemblyInfoInputs.cache
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.AssemblyInfo.cs
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\bin\Debug\net7.0-windows\DateTimeCalculator.exe
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\bin\Debug\net7.0-windows\DateTimeCalculator.deps.json
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\bin\Debug\net7.0-windows\DateTimeCalculator.runtimeconfig.json
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\bin\Debug\net7.0-windows\DateTimeCalculator.dll
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\bin\Debug\net7.0-windows\DateTimeCalculator.pdb
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.dll
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\refint\DateTimeCalculator.dll
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.pdb
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\DateTimeCalculator.genruntimeconfig.cache
+F:\C++\Проэкт\DateTimeCalculator\DateTimeCalculator\obj\Debug\net7.0-windows\ref\DateTimeCalculator.dll

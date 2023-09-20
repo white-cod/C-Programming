@@ -1,0 +1,17 @@
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\bin\Debug\net7.0-windows\TextFileReaderApp.exe
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\bin\Debug\net7.0-windows\TextFileReaderApp.deps.json
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\bin\Debug\net7.0-windows\TextFileReaderApp.runtimeconfig.json
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\bin\Debug\net7.0-windows\TextFileReaderApp.dll
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\bin\Debug\net7.0-windows\TextFileReaderApp.pdb
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.csproj.AssemblyReference.cache
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.Form1.resources
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.csproj.GenerateResource.cache
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.AssemblyInfoInputs.cache
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.AssemblyInfo.cs
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.dll
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\refint\TextFileReaderApp.dll
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.pdb
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\TextFileReaderApp.genruntimeconfig.cache
+F:\C++\Проэкт\TextFileReaderApp\TextFileReaderApp\obj\Debug\net7.0-windows\ref\TextFileReaderApp.dll

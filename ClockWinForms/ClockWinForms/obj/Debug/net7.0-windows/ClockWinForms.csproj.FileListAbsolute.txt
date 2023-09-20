@@ -1,0 +1,17 @@
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\bin\Debug\net7.0-windows\ClockWinForms.exe
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\bin\Debug\net7.0-windows\ClockWinForms.deps.json
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\bin\Debug\net7.0-windows\ClockWinForms.runtimeconfig.json
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\bin\Debug\net7.0-windows\ClockWinForms.dll
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\bin\Debug\net7.0-windows\ClockWinForms.pdb
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.csproj.AssemblyReference.cache
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.Form1.resources
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.csproj.GenerateResource.cache
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.AssemblyInfoInputs.cache
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.AssemblyInfo.cs
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.dll
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\refint\ClockWinForms.dll
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.pdb
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ClockWinForms.genruntimeconfig.cache
+F:\C++\Проэкт\ClockWinForms\ClockWinForms\obj\Debug\net7.0-windows\ref\ClockWinForms.dll

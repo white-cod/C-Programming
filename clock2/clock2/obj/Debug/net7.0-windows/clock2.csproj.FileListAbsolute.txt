@@ -1,0 +1,17 @@
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.csproj.AssemblyReference.cache
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.Form1.resources
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.csproj.GenerateResource.cache
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.AssemblyInfoInputs.cache
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.AssemblyInfo.cs
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\clock2\clock2\bin\Debug\net7.0-windows\clock2.exe
+F:\C++\Проэкт\clock2\clock2\bin\Debug\net7.0-windows\clock2.deps.json
+F:\C++\Проэкт\clock2\clock2\bin\Debug\net7.0-windows\clock2.runtimeconfig.json
+F:\C++\Проэкт\clock2\clock2\bin\Debug\net7.0-windows\clock2.dll
+F:\C++\Проэкт\clock2\clock2\bin\Debug\net7.0-windows\clock2.pdb
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.dll
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\refint\clock2.dll
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.pdb
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\clock2.genruntimeconfig.cache
+F:\C++\Проэкт\clock2\clock2\obj\Debug\net7.0-windows\ref\clock2.dll

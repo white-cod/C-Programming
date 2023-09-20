@@ -1,0 +1,17 @@
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.csproj.AssemblyReference.cache
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.csproj.GenerateResource.cache
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.AssemblyInfoInputs.cache
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.AssemblyInfo.cs
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\bin\Debug\net7.0-windows\NumberGuessingGame.exe
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\bin\Debug\net7.0-windows\NumberGuessingGame.deps.json
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\bin\Debug\net7.0-windows\NumberGuessingGame.runtimeconfig.json
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\bin\Debug\net7.0-windows\NumberGuessingGame.dll
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\bin\Debug\net7.0-windows\NumberGuessingGame.pdb
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.Form1.resources
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.dll
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\refint\NumberGuessingGame.dll
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.pdb
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\NumberGuessingGame.genruntimeconfig.cache
+F:\C++\Проэкт\NumberGuessingGame\NumberGuessingGame\obj\Debug\net7.0-windows\ref\NumberGuessingGame.dll

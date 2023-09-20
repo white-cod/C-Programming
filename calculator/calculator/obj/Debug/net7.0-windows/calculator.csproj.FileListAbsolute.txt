@@ -1,0 +1,17 @@
+F:\C++\Проэкт\calculator\calculator\bin\Debug\net7.0-windows\calculator.exe
+F:\C++\Проэкт\calculator\calculator\bin\Debug\net7.0-windows\calculator.deps.json
+F:\C++\Проэкт\calculator\calculator\bin\Debug\net7.0-windows\calculator.runtimeconfig.json
+F:\C++\Проэкт\calculator\calculator\bin\Debug\net7.0-windows\calculator.dll
+F:\C++\Проэкт\calculator\calculator\bin\Debug\net7.0-windows\calculator.pdb
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.csproj.AssemblyReference.cache
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.Form1.resources
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.csproj.GenerateResource.cache
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.AssemblyInfoInputs.cache
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.AssemblyInfo.cs
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.dll
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\refint\calculator.dll
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.pdb
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\calculator.genruntimeconfig.cache
+F:\C++\Проэкт\calculator\calculator\obj\Debug\net7.0-windows\ref\calculator.dll

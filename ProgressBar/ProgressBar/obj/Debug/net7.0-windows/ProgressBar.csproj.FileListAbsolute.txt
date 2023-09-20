@@ -1,0 +1,17 @@
+F:\C++\Проэкт\ProgressBar\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.exe
+F:\C++\Проэкт\ProgressBar\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.deps.json
+F:\C++\Проэкт\ProgressBar\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.runtimeconfig.json
+F:\C++\Проэкт\ProgressBar\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.dll
+F:\C++\Проэкт\ProgressBar\ProgressBar\bin\Debug\net7.0-windows\ProgressBar.pdb
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.csproj.AssemblyReference.cache
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.Form1.resources
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.csproj.GenerateResource.cache
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.AssemblyInfoInputs.cache
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.AssemblyInfo.cs
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.dll
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\refint\ProgressBar.dll
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.pdb
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ProgressBar.genruntimeconfig.cache
+F:\C++\Проэкт\ProgressBar\ProgressBar\obj\Debug\net7.0-windows\ref\ProgressBar.dll

@@ -1,0 +1,17 @@
+F:\C++\Проэкт\Questionnaire\Questionnaire\bin\Debug\net7.0-windows\Questionnaire.exe
+F:\C++\Проэкт\Questionnaire\Questionnaire\bin\Debug\net7.0-windows\Questionnaire.deps.json
+F:\C++\Проэкт\Questionnaire\Questionnaire\bin\Debug\net7.0-windows\Questionnaire.runtimeconfig.json
+F:\C++\Проэкт\Questionnaire\Questionnaire\bin\Debug\net7.0-windows\Questionnaire.dll
+F:\C++\Проэкт\Questionnaire\Questionnaire\bin\Debug\net7.0-windows\Questionnaire.pdb
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.csproj.AssemblyReference.cache
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.Form1.resources
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.csproj.GenerateResource.cache
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.AssemblyInfoInputs.cache
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.AssemblyInfo.cs
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.dll
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\refint\Questionnaire.dll
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.pdb
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\Questionnaire.genruntimeconfig.cache
+F:\C++\Проэкт\Questionnaire\Questionnaire\obj\Debug\net7.0-windows\ref\Questionnaire.dll

@@ -1,0 +1,17 @@
+F:\C++\Проэкт\DateApp\DateApp\bin\Debug\net7.0-windows\DateApp.exe
+F:\C++\Проэкт\DateApp\DateApp\bin\Debug\net7.0-windows\DateApp.deps.json
+F:\C++\Проэкт\DateApp\DateApp\bin\Debug\net7.0-windows\DateApp.runtimeconfig.json
+F:\C++\Проэкт\DateApp\DateApp\bin\Debug\net7.0-windows\DateApp.dll
+F:\C++\Проэкт\DateApp\DateApp\bin\Debug\net7.0-windows\DateApp.pdb
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.csproj.AssemblyReference.cache
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.Form1.resources
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.csproj.GenerateResource.cache
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.AssemblyInfoInputs.cache
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.AssemblyInfo.cs
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.dll
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\refint\DateApp.dll
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.pdb
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\DateApp.genruntimeconfig.cache
+F:\C++\Проэкт\DateApp\DateApp\obj\Debug\net7.0-windows\ref\DateApp.dll
