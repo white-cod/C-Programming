@@ -162,6 +162,8 @@ namespace CalculatorWPF
                 return;
             else if (temp_str.Length >= 20)
                 return;
+            else if (temp_str == "0" && num != ',')
+                return;
 
             ResultInfo.Content = ResultInfo.Content + num.ToString();
 
@@ -187,6 +189,7 @@ namespace CalculatorWPF
                 snum = double.Parse(temp_str[(index + 1)..(temp_str.Length)]);
             }
         }
+
 
         private void FinalCalculations()
         {

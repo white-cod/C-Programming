@@ -1,0 +1,114 @@
+﻿<Window x:Class="KeyboardTrainer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Keyboard Trainer" Height="450" Width="800">
+    <Grid>
+        <Label Content="Difficulty"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"
+               Margin="10,10,0,0"/>
+
+        <Slider x:Name="DifficultySlider"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Margin="80,15,0,0"
+                Width="100"
+                Minimum="1" 
+                Maximum="3"
+                TickFrequency="1"
+                IsSnapToTickEnabled="True"/>
+
+        <Label x:Name="DifficultyInfo" 
+               FontWeight="SemiBold"
+               Content="Easy"
+               Foreground="Green"
+               Margin="180,10,0,0"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Left"/>
+
+        <Button x:Name="StartButton"
+                Width="100"
+                Height="20"
+                Content="Start training"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Margin="291,15,0,0"
+                Click="StartButton_Click"/>
+
+        <Button x:Name="StopButton"
+                Width="100"
+                Height="20"
+                Content="Stop training"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Margin="410,15,0,0"
+                Click="StopButton_Click"
+                IsEnabled="False"/>
+
+        <TextBox x:Name="InputLogBox"
+                 VerticalAlignment="Top"
+                 HorizontalAlignment="Center"
+                 Width="550"
+                 Height="20"
+                 Margin="0,45,0,0"
+                 IsReadOnly="True"
+                 Focusable="True"/>
+
+
+        <Label x:Name="AccuracyInfo"
+                Width="150"
+                Height="30"
+                Content="Accuracy:"
+                VerticalAlignment="Bottom"
+                HorizontalAlignment="Left"
+                HorizontalContentAlignment="Left"
+                VerticalContentAlignment="Center"
+                Margin="0,10,20,0"/>
+
+        <Button x:Name="ButtonZ" Content="Z" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="211,301,0,0"/>
+        <Button x:Name="ButtonX" Content="X" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="266,301,0,0"/>
+        <Button x:Name="ButtonC" Content="C" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="321,301,0,0"/>
+        <Button x:Name="ButtonV" Content="V" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="376,301,0,0"/>
+        <Button x:Name="ButtonB" Content="B" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="431,301,0,0"/>
+        <Button x:Name="ButtonN" Content="N" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="485,301,0,0"/>
+        <Button x:Name="ButtonM" Content="M" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="540,301,0,0"/>
+        <Button x:Name="ButtonSpace" Content="Space" HorizontalAlignment="Center" VerticalAlignment="Top" Width="270" Height="50" IsEnabled="False" Click="Button_Click" Margin="0,361,0,0"/>
+
+        <Button x:Name="ButtonA" Content="A" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="156,241,0,0"/>
+        <Button x:Name="ButtonS" Content="S" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="211,241,0,0"/>
+        <Button x:Name="ButtonD" Content="D" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="266,241,0,0"/>
+        <Button x:Name="ButtonF" Content="F" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="321,241,0,0"/>
+        <Button x:Name="ButtonG" Content="G" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="376,241,0,0"/>
+        <Button x:Name="ButtonH" Content="H" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="430,241,0,0"/>
+        <Button x:Name="ButtonJ" Content="J" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="485,241,0,0"/>
+        <Button x:Name="ButtonK" Content="K" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="540,241,0,0"/>
+        <Button x:Name="ButtonL" Content="L" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="596,241,0,0"/>
+
+        <Button x:Name="ButtonQ" Content="Q" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="126,181,0,0"/>
+        <Button x:Name="ButtonW" Content="W" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="181,181,0,0"/>
+        <Button x:Name="ButtonE" Content="E" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="236,181,0,0"/>
+        <Button x:Name="ButtonR" Content="R" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="291,181,0,0"/>
+        <Button x:Name="ButtonT" Content="T" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="346,181,0,0"/>
+        <Button x:Name="ButtonY" Content="Y" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="400,181,0,0"/>
+        <Button x:Name="ButtonU" Content="U" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="455,181,0,0"/>
+        <Button x:Name="ButtonI" Content="I" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="510,181,0,0"/>
+        <Button x:Name="ButtonO" Content="O" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="566,181,0,0"/>
+        <Button x:Name="ButtonP" Content="P" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="621,181,0,0"/>
+
+        <Button x:Name="Button1" Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="71,121,0,0"/>
+        <Button x:Name="Button2" Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="126,121,0,0"/>
+        <Button x:Name="Button3" Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="181,121,0,0"/>
+        <Button x:Name="Button4" Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="236,121,0,0"/>
+        <Button x:Name="Button5" Content="5" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="291,121,0,0"/>
+        <Button x:Name="Button6" Content="6" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="345,121,0,0"/>
+        <Button x:Name="Button7" Content="7" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="400,121,0,0"/>
+        <Button x:Name="Button8" Content="8" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="455,121,0,0"/>
+        <Button x:Name="Button9" Content="9" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="510,121,0,0"/>
+        <Button x:Name="Button0" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="565,121,0,0"/>
+        <Button x:Name="ButtonMin" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="621,121,0,0"/>
+        <Button x:Name="ButtonPlus" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" IsEnabled="False" Click="Button_Click" Margin="677,121,0,0"/>
+
+
+    </Grid>
+
+</Window>

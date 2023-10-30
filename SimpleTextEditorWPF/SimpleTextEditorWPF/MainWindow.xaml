@@ -1,0 +1,132 @@
+﻿<Window x:Class="SimpleTextEditorWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=System.Runtime"
+        xmlns:local="clr-namespace:SimpleTextEditorWPF"
+        xmlns:converter="clr-namespace:SimpleTextEditorWPF.Converter"
+        mc:Ignorable="d"
+        Title="Simle text editor" Height="450" Width="400"
+        ResizeMode="NoResize">
+    <Window.Resources>
+        <converter:BoolToFontStyleConverter x:Key="BoolToFontStyleConverter"/>
+        <converter:StringToIntConverter x:Key="StringToIntConverter"/>
+        <converter:StringToFontWeightConverter x:Key="StringToFontWeightConverter"/>
+        <x:Array x:Key="FontWeightRes" Type="{x:Type sys:String}">
+            <sys:String>Normal</sys:String>
+            <sys:String>Black</sys:String>
+            <sys:String>Bold</sys:String>
+            <sys:String>DemiBold</sys:String>
+            <sys:String>ExtraBlack</sys:String>
+            <sys:String>ExtraBold</sys:String>
+            <sys:String>ExtraLight</sys:String>
+            <sys:String>Light</sys:String>
+            <sys:String>Heavy</sys:String>
+            <sys:String>Medium</sys:String>
+            <sys:String>Regular</sys:String>
+            <sys:String>SemiBold</sys:String>
+            <sys:String>Thin</sys:String>
+            <sys:String>UltraBlack</sys:String>
+            <sys:String>UltraBold</sys:String>
+            <sys:String>UltraLight</sys:String>
+        </x:Array>
+    </Window.Resources>
+    <Grid>
+        <Label Margin="0,10,0,0"
+               FontSize="15"
+               Content="FontWeight:" 
+               VerticalAlignment="Top" 
+               HorizontalAlignment="Left"/>
+
+        <ComboBox x:Name="FontWeightSelector"
+                  Margin="90,15,0,0"
+                  Width="70"
+                  VerticalAlignment="Top" 
+                  HorizontalAlignment="Left"
+                  ItemsSource="{StaticResource FontWeightRes}"
+                  SelectedIndex="0"
+                  />
+
+        <Label Margin="0,45,0,0"
+               FontSize="15"
+               Content="FontStyle:" 
+               VerticalAlignment="Top" 
+               HorizontalAlignment="Left"/>
+
+        <CheckBox x:Name="FontStyleCheckBox"
+                  Content="Italic"
+                  VerticalAlignment="Top" 
+                  HorizontalAlignment="Left"
+                  Margin="80,55,0,0"
+                  IsChecked="False"/>
+
+        <TextBox x:Name="OutputBox"
+                 Width="400"
+                 Height="200"
+                 VerticalAlignment="Bottom"
+                 HorizontalAlignment="Left"
+                 TextWrapping="Wrap">
+            <TextBox.FontStyle>
+                <Binding Path="IsChecked" ElementName="FontStyleCheckBox" Converter="{StaticResource BoolToFontStyleConverter}" />
+            </TextBox.FontStyle>
+            <TextBox.FontWeight>
+                <Binding Path="SelectedItem" ElementName="FontWeightSelector" Converter="{StaticResource StringToFontWeightConverter}"/>
+            </TextBox.FontWeight>
+            <TextBox.Foreground>
+                <Binding Path="SelectedItem" ElementName="ForegroundSelector"/>
+            </TextBox.Foreground>
+            <TextBox.FontSize>
+                <Binding Path="Value" ElementName="SizeSlider"/>
+            </TextBox.FontSize>
+        </TextBox>
+
+        <Label Margin="0,80,0,0"
+               FontSize="15"
+               Content="Foreground:" 
+               VerticalAlignment="Top" 
+               HorizontalAlignment="Left"/>
+
+        <ComboBox x:Name="ForegroundSelector"
+                  Margin="90,85,0,0"
+                  Width="100"
+                  VerticalAlignment="Top" 
+                  HorizontalAlignment="Left"
+                  SelectedValue="#FF000000">
+            <ComboBox.ItemContainerStyle>
+                <Style TargetType="ComboBoxItem">
+                    <Setter Property="Background" Value="{Binding}"/>
+                </Style>
+            </ComboBox.ItemContainerStyle>
+        </ComboBox>
+
+        <Label Margin="0,0,0,170"
+               FontSize="15"
+               Content="Size:" 
+               VerticalAlignment="Center" 
+               HorizontalAlignment="Left"/>
+
+        <TextBox x:Name="SizeBox"
+                 Width="30"
+                 Margin="40,0,0,165"
+                 FontSize="15"
+                 VerticalAlignment="Center" 
+                 HorizontalAlignment="Left" TextChanged="SizeBox_TextChanged">
+            <TextBox.Text>
+                <Binding Path="Value" ElementName="SizeSlider" Mode="TwoWay"/>
+            </TextBox.Text>
+        </TextBox>
+
+        <Slider  x:Name="SizeSlider"
+                 Width="200"
+                 Margin="80,0,0,165"
+                 FontSize="15"
+                 VerticalAlignment="Center" 
+                 HorizontalAlignment="Left"
+                 IsSnapToTickEnabled="True" 
+                 TickFrequency="1"
+                 Minimum="14"
+                 Maximum="48"
+                 Value="14"/>
+    </Grid>
+</Window>
