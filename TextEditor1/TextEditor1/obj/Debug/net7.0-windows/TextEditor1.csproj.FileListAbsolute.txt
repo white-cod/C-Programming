@@ -1,0 +1,16 @@
+F:\C++\Проэкт\TextEditor1\TextEditor1\bin\Debug\net7.0-windows\TextEditor1.exe
+F:\C++\Проэкт\TextEditor1\TextEditor1\bin\Debug\net7.0-windows\TextEditor1.deps.json
+F:\C++\Проэкт\TextEditor1\TextEditor1\bin\Debug\net7.0-windows\TextEditor1.runtimeconfig.json
+F:\C++\Проэкт\TextEditor1\TextEditor1\bin\Debug\net7.0-windows\TextEditor1.dll
+F:\C++\Проэкт\TextEditor1\TextEditor1\bin\Debug\net7.0-windows\TextEditor1.pdb
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\TextEditor1.Form1.resources
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\TextEditor1.csproj.GenerateResource.cache
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\TextEditor1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\TextEditor1.AssemblyInfoInputs.cache
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\TextEditor1.AssemblyInfo.cs
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\TextEditor1.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\TextEditor1.dll
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\refint\TextEditor1.dll
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\TextEditor1.pdb
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\TextEditor1.genruntimeconfig.cache
+F:\C++\Проэкт\TextEditor1\TextEditor1\obj\Debug\net7.0-windows\ref\TextEditor1.dll

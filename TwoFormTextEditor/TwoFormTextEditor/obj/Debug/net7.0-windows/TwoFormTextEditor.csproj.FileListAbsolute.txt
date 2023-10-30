@@ -1,0 +1,17 @@
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\bin\Debug\net7.0-windows\TwoFormTextEditor.exe
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\bin\Debug\net7.0-windows\TwoFormTextEditor.deps.json
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\bin\Debug\net7.0-windows\TwoFormTextEditor.runtimeconfig.json
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\bin\Debug\net7.0-windows\TwoFormTextEditor.dll
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\bin\Debug\net7.0-windows\TwoFormTextEditor.pdb
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.Form1.resources
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.Form2.resources
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.csproj.GenerateResource.cache
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.AssemblyInfoInputs.cache
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.AssemblyInfo.cs
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.dll
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\refint\TwoFormTextEditor.dll
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.pdb
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\TwoFormTextEditor.genruntimeconfig.cache
+F:\C++\Проэкт\TwoFormTextEditor\TwoFormTextEditor\obj\Debug\net7.0-windows\ref\TwoFormTextEditor.dll

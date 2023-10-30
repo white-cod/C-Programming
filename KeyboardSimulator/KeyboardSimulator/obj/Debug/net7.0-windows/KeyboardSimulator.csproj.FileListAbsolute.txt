@@ -1,0 +1,10 @@
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\KeyboardSimulator.csproj.AssemblyReference.cache
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\App.g.cs
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\KeyboardSimulator_MarkupCompile.cache
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\KeyboardSimulator_MarkupCompile.lref
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\MainWindow.baml
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\KeyboardSimulator.dll
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\refint\KeyboardSimulator.dll
+F:\C++\Проэкт\KeyboardSimulator\KeyboardSimulator\obj\Debug\net7.0-windows\KeyboardSimulator.pdb

@@ -1,0 +1,17 @@
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.Form1.resources
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.Form2.resources
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.csproj.GenerateResource.cache
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.AssemblyInfoInputs.cache
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.AssemblyInfo.cs
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\bin\Debug\net7.0-windows\AdditionalForms1.exe
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\bin\Debug\net7.0-windows\AdditionalForms1.deps.json
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\bin\Debug\net7.0-windows\AdditionalForms1.runtimeconfig.json
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\bin\Debug\net7.0-windows\AdditionalForms1.dll
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\bin\Debug\net7.0-windows\AdditionalForms1.pdb
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.dll
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\refint\AdditionalForms1.dll
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.pdb
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\AdditionalForms1.genruntimeconfig.cache
+F:\C++\Проэкт\AdditionalForms1\AdditionalForms1\obj\Debug\net7.0-windows\ref\AdditionalForms1.dll
