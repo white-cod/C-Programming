@@ -1,0 +1,14 @@
+F:\C++\Проэкт\philosophy\philosophy\bin\Debug\net7.0\philosophy.exe
+F:\C++\Проэкт\philosophy\philosophy\bin\Debug\net7.0\philosophy.deps.json
+F:\C++\Проэкт\philosophy\philosophy\bin\Debug\net7.0\philosophy.runtimeconfig.json
+F:\C++\Проэкт\philosophy\philosophy\bin\Debug\net7.0\philosophy.dll
+F:\C++\Проэкт\philosophy\philosophy\bin\Debug\net7.0\philosophy.pdb
+F:\C++\Проэкт\philosophy\philosophy\obj\Debug\net7.0\philosophy.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Проэкт\philosophy\philosophy\obj\Debug\net7.0\philosophy.AssemblyInfoInputs.cache
+F:\C++\Проэкт\philosophy\philosophy\obj\Debug\net7.0\philosophy.AssemblyInfo.cs
+F:\C++\Проэкт\philosophy\philosophy\obj\Debug\net7.0\philosophy.csproj.CoreCompileInputs.cache
+F:\C++\Проэкт\philosophy\philosophy\obj\Debug\net7.0\philosophy.dll
+F:\C++\Проэкт\philosophy\philosophy\obj\Debug\net7.0\refint\philosophy.dll
+F:\C++\Проэкт\philosophy\philosophy\obj\Debug\net7.0\philosophy.pdb
+F:\C++\Проэкт\philosophy\philosophy\obj\Debug\net7.0\philosophy.genruntimeconfig.cache
+F:\C++\Проэкт\philosophy\philosophy\obj\Debug\net7.0\ref\philosophy.dll

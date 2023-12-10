@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoloaderCustomizer", "AutoloaderCustomizer\AutoloaderCustomizer.csproj", "{033A5433-4718-490F-B542-AD14B99F6EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033A5433-4718-490F-B542-AD14B99F6EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033A5433-4718-490F-B542-AD14B99F6EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033A5433-4718-490F-B542-AD14B99F6EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033A5433-4718-490F-B542-AD14B99F6EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {873C3BC6-D951-4202-B289-EADF0AF6A911}
+	EndGlobalSection
+EndGlobal
