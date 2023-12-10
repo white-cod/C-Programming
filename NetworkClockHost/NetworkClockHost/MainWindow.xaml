@@ -1,0 +1,21 @@
+﻿<Window x:Class="NetworkClockHost.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NetworkClockHost"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="230" Width="670">
+    <Grid Margin="0,0,10,-115">
+        <Label x:Name="lblTime" Content="Current Time" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" Margin="283,10,0,0"/>
+        <Button Content="Start Clock" Click="StartClock_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="556,144,0,0" Height="34" Width="85"/>
+        <ListBox x:Name="lstPacketNames" HorizontalAlignment="Left" VerticalAlignment="Top" Width="254" Height="168" Margin="10,10,0,0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Label x:Name="lblReceivedTime" Content="Label" HorizontalAlignment="Left" Margin="283,76,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

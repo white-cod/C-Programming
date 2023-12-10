@@ -1,0 +1,86 @@
+﻿<Window x:Class="OlympiadApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Olympiad App" Height="480" Width="1350" ResizeMode="NoResize">
+
+    <Grid>
+        <TabControl Margin="0,0,257,0" x:Name="tabControl" SelectionChanged="tabControl_SelectionChanged">
+
+            <TabItem Header="Olympiads">
+                <DataGrid x:Name="olympiadsDataGrid" CellEditEnding="olympiadsDataGrid_CellEditEnding" AutoGenerateColumns="False" IsReadOnly="False" ItemsSource="{Binding Olympiads}" >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="OlympiadId" Binding="{Binding OlympiadId}" IsReadOnly="True" />
+                        <DataGridTextColumn Header="Year" Binding="{Binding Year}" />
+                        <DataGridTextColumn Header="HostCountry" Binding="{Binding HostCountry}" />
+                        <DataGridTextColumn Header="HostCity" Binding="{Binding HostCity}" />
+                        <DataGridCheckBoxColumn Header="IsSummerOlympiad" Binding="{Binding IsSummerOlympiad}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+
+            <TabItem Header="Athletes">
+                <DataGrid x:Name="athletesDataGrid" CellEditEnding="athletesDataGrid_CellEditEnding" AutoGenerateColumns="False" IsReadOnly="False" ItemsSource="{Binding Athletes}" >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="AthleteId" Binding="{Binding AthleteId}" IsReadOnly="True" />
+                        <DataGridTextColumn Header="FullName" Binding="{Binding FullName}" />
+                        <DataGridTextColumn Header="Country" Binding="{Binding Country}" />
+                        <DataGridTextColumn Header="DateOfBirth" Binding="{Binding DateOfBirth}" />
+                        <DataGridTextColumn Header="GoldMedals" Binding="{Binding GoldMedals}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+
+            <TabItem Header="Sports">
+                <DataGrid x:Name="sportsDataGrid" CellEditEnding="sportsDataGrid_CellEditEnding" AutoGenerateColumns="False" IsReadOnly="False" ItemsSource="{Binding Sports}" >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="SportId" Binding="{Binding SportId}" IsReadOnly="True" />
+                        <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+
+            <TabItem Header="Medal Standings">
+                <DataGrid x:Name="medalStandingsDataGrid" AutoGenerateColumns="True" />
+            </TabItem>
+
+            <TabItem Header="Medalists">
+                <DataGrid x:Name="medalistsDataGrid" AutoGenerateColumns="True" />
+            </TabItem>
+
+            <TabItem Header="Most Gold Medals">
+                <TextBlock x:Name="mostGoldMedalsCountryTextBlock" />
+            </TabItem>
+
+            <TabItem Header="Most Gold Medals in Sport">
+                <StackPanel>
+                    <ComboBox x:Name="sportComboBox" DisplayMemberPath="Name" ItemsSource="{Binding Sports}"/>
+                    <DataGrid x:Name="mostGoldMedalsInSportDataGrid" AutoGenerateColumns="True"/>
+                </StackPanel>
+            </TabItem>
+
+            <TabItem Header="Most Hosted Olympiads">
+                <TextBlock x:Name="mostHostedCountryTextBlock" />
+            </TabItem>
+
+            <TabItem Header="Olympic Team Composition">
+                <StackPanel>
+                    <ComboBox x:Name="countryComboBox" DisplayMemberPath="Country" ItemsSource="{Binding Countries}"/>
+                    <DataGrid x:Name="olympicTeamCompositionDataGrid" AutoGenerateColumns="True"/>
+                </StackPanel>
+            </TabItem>
+
+            <TabItem Header="Country Performance Statistics">
+                <StackPanel>
+                    <DataGrid x:Name="countryPerformanceStatisticsDataGrid" AutoGenerateColumns="True" />
+                </StackPanel>
+            </TabItem>
+
+        </TabControl>
+
+        <ComboBox x:Name="olympiadComboBox" DisplayMemberPath="Year" ItemsSource="{Binding Olympiads}" SelectionChanged="olympiadComboBox_SelectionChanged" Margin="1143,27,123,390" RenderTransformOrigin="0.126,0.441" SelectedIndex="0"/>
+        <Button x:Name="RefreshBtn" FontSize="15" Content="Refresh" HorizontalAlignment="Left" Margin="1225,403,0,0" VerticalAlignment="Top" Height="33" Width="103" Click="RefreshBtn_Click"/>
+        <Label Content="Year:" FontSize="15" Margin="1098,22,194,0" VerticalAlignment="Top" Height="48" Width="58"/>
+
+
+    </Grid>
+</Window>
