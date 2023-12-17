@@ -1,3 +1,2 @@
 # Programming
-Vanya super gay
-My C++ & C#
+My C++ / C# / WPF / Win Forms
