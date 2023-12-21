@@ -1,4 +1,0 @@
-﻿  Source.cpp
-D:\Мої документи\Тима\Файлы\Проэкт\2.6\2.6\Source.cpp(10,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-D:\Мої документи\Тима\Файлы\Проэкт\2.6\2.6\Source.cpp(11,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  2.6.vcxproj -> D:\Мої документи\Тима\Файлы\Проэкт\2.6\x64\Debug\2.6.exe
