@@ -58,7 +58,6 @@ namespace Alarm_clock
         {
             string extension = "";
 
-            if (openFileDialog1.Show)
         }
     }
 }
