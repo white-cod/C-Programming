@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClockWinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebb43c5ef4de27f9136ec7e959f57dd8b7c210c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClockWinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClockWinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

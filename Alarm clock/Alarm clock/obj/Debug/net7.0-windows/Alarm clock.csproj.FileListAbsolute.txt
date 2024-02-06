@@ -15,3 +15,20 @@ F:\C++\Проэкт\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\refint\Alar
 F:\C++\Проэкт\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.pdb
 F:\C++\Проэкт\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.genruntimeconfig.cache
 F:\C++\Проэкт\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\ref\Alarm clock.dll
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm_clock.Form1.resources
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.csproj.GenerateResource.cache
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.AssemblyInfoInputs.cache
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.AssemblyInfo.cs
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.csproj.CoreCompileInputs.cache
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.sourcelink.json
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.dll
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\refint\Alarm clock.dll
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.pdb
+F:\C++\Programming\Alarm clock\Alarm clock\bin\Debug\net7.0-windows\Alarm clock.exe
+F:\C++\Programming\Alarm clock\Alarm clock\bin\Debug\net7.0-windows\Alarm clock.deps.json
+F:\C++\Programming\Alarm clock\Alarm clock\bin\Debug\net7.0-windows\Alarm clock.runtimeconfig.json
+F:\C++\Programming\Alarm clock\Alarm clock\bin\Debug\net7.0-windows\Alarm clock.dll
+F:\C++\Programming\Alarm clock\Alarm clock\bin\Debug\net7.0-windows\Alarm clock.pdb
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\Alarm clock.genruntimeconfig.cache
+F:\C++\Programming\Alarm clock\Alarm clock\obj\Debug\net7.0-windows\ref\Alarm clock.dll
