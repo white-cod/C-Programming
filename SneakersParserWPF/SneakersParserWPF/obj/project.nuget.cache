@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7DH+/J33P4ZXhGUCfYf38NWrojB5w4raatiI6xOAvRJTo9Ww1v30spkIYE7C5CEB7wkKKzh8vKvIugYENE41iw==",
+  "success": true,
+  "projectFilePath": "F:\\C languag projects\\Programming\\SneakersParserWPF\\SneakersParserWPF\\SneakersParserWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}
