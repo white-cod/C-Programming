@@ -1,0 +1,35 @@
+@page "/EditBook/{id}"
+@model RazorPagesDemo.Pages.EditBookModel
+
+<h1>Edit Book</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Book.Id" />
+
+    <div>
+        <label>Title:</label>
+        <input type="text" asp-for="Book.Title" />
+    </div>
+
+    <div>
+        <label>Author:</label>
+        <input type="text" asp-for="Book.Author" />
+    </div>
+
+    <div>
+        <label>Style:</label>
+        <input type="text" asp-for="Book.Style" />
+    </div>
+
+    <div>
+        <label>Publisher:</label>
+        <input type="text" asp-for="Book.Publisher" />
+    </div>
+
+    <div>
+        <label>YearOfPublication:</label>
+        <input type="text" asp-for="Book.YearOfPublication" />
+    </div>
+
+    <button type="submit">Save</button>
+</form>
